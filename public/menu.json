@@ -1,0 +1,34 @@
+[
+   {
+      "id": 1,
+      "name": "Pollo, queso crema, cebollín",
+      "price": 4000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "menu"
+   },
+   {
+      "id": 2,
+      "name": "Camarón, queso crema, cebollín",
+      "price": 4000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "menu"
+   },
+   {
+      "id": 3,
+      "name": "Pulpo, queso crema, cebollín",
+      "price": 4000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "menu"
+   },
+   {
+      "id": 4,
+      "name": "Champiñón, queso crema, cebollín",
+      "price": 4000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "menu"
+   }
+]

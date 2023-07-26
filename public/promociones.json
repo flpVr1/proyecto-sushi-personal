@@ -1,0 +1,34 @@
+[
+   {
+      "id": 1,
+      "name": "Promo 1",
+      "price": 5000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "promociones"
+   },
+   {
+      "id": 2,
+      "name": "Promo 2",
+      "price": 5000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "promociones"
+   },
+   {
+      "id": 3,
+      "name": "Promo 3",
+      "price": 5000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "promociones"
+   },
+   {
+      "id": 4,
+      "name": "Promo 4",
+      "price": 5000,
+      "img": "https://oceanikasushi.cl/wp-content/uploads/2018/07/56-300x300.jpg",
+      "quanty": 0,
+      "category": "promociones"
+   }
+]
